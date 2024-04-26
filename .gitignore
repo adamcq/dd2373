@@ -1,1 +1,7 @@
 *.class
+*.iml
+*.DS_STORE
+*.idea
+*.jar
+*.
+out
