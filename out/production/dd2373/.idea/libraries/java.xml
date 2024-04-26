@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/junit-4.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jetCheck-0.1-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hamcrest-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
